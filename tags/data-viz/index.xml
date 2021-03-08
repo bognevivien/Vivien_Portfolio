@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data viz on Vivien BOGNE</title>
+    <link>https://vivien-dsa.github.io/Vivien_Portfolio/tags/data-viz/</link>
+    <description>Recent content in data viz on Vivien BOGNE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Apr 2020 11:25:05 -0400</lastBuildDate><atom:link href="https://vivien-dsa.github.io/Vivien_Portfolio/tags/data-viz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project VI: Most Dangerous Country in EU</title>
+      <link>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-6/</link>
+      <pubDate>Tue, 14 Apr 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-6/</guid>
+      <description>We are delighted to be able to inform the reader. is France the most dangerous Country in EU? We use crimes statistics from europea.eu website to explain or show the most dangerouns countries in European Union. We used 4 datasets, the Assaults, the number of intentional Homicide, the number of car thefts and one last with the number of the number of robbery. Using chloropleth maps, Tree map, bar chart in PLOTLY, we invalidated the null hypothesis.</description>
+    </item>
+    
+  </channel>
+</rss>

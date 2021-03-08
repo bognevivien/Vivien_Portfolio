@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vivien BOGNE</title>
+    <link>https://vivien-dsa.github.io/Vivien_Portfolio/fr/</link>
+    <description>Recent content on Vivien BOGNE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Dec 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://vivien-dsa.github.io/Vivien_Portfolio/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projet I: Analyse semantique des sentiments : RNN ( GRU ) and CNN </title>
+      <link>https://vivien-dsa.github.io/Vivien_Portfolio/fr/post/projet-1/</link>
+      <pubDate>Wed, 09 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vivien-dsa.github.io/Vivien_Portfolio/fr/post/projet-1/</guid>
+      <description>Dans cette démo, nous construisons un système d&amp;rsquo;analyse des sentiments pour Twitter. La tâche consiste à prédire si un tweet est positif, négatif ou neutre par rapport à son contenu. Nous utilisons comme réseaux de neurones GRU et CNN.</description>
+    </item>
+    
+    <item>
+      <title>Projet II: Quel est le pays le plus dangereux de l&#39;UE? ( EPITA ) </title>
+      <link>https://vivien-dsa.github.io/Vivien_Portfolio/fr/post/projet-2/</link>
+      <pubDate>Wed, 09 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vivien-dsa.github.io/Vivien_Portfolio/fr/post/projet-2/</guid>
+      <description>Analyse du besoin : Nous utilisons les statistiques de criminalité du site europea.eu pour analyser les pays les plus dangereux de l&amp;rsquo;Union européenne.
+  Hypothèse : La france n&amp;rsquo;est pas le pays le plus dangereux de l&amp;rsquo;UE.
+  Dataviz : Construction d&amp;rsquo;un tableau de bord avec plusieurs visuels ( chloropleth maps, Tree map, diagramme en bar et en secteur )
+  Validation de l&amp;rsquo;hypothèse et Conclusion: La France se positionne en troisième place dans le classement des pays les plus dangereux de l&amp;rsquo;union européenne.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://vivien-dsa.github.io/Vivien_Portfolio/fr/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vivien-dsa.github.io/Vivien_Portfolio/fr/contact/</guid>
+      <description>Vivien BOGNE TIENOUE Master of Science Computer Science:
+Data Science and Analytics.
+vivien.bogne-tienoue@epita.fr | +33 (0)7.53.31.91.97
+bognetienoue@gmail.com | +33 (0)7.53.31.91.97
+EPITA – Ecole d’Ingénieurs en Informatique</description>
+    </item>
+    
+  </channel>
+</rss>
