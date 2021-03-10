@@ -13,7 +13,8 @@
       <pubDate>Fri, 12 Feb 2021 11:14:48 -0400</pubDate>
       
       <guid>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-4/</guid>
-      <description>Read the MovieLens dataset. Create 2 model pipelines : 1st pipeline : Load data, Train test split, model training, prediction, evaluation. 2nd pipeline : Load data, cross validation. Benchmark the User based and item based collaborative filtering models using the cosine and pearson correlation similarity metrics.</description>
+      <description>Read the MovieLens dataset. Create 2 model pipelines : 1st pipeline : Load data, Train test split, model training, prediction, evaluation. 2nd pipeline : Load data, cross validation. Benchmark the User based and item based collaborative filtering models using the cosine and pearson correlation similarity metrics.
+The complete notebook : https://github.com/vivien-DSA/recsys_practice</description>
     </item>
     
   </channel>
