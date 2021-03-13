@@ -117,10 +117,6 @@
                 href="https://vivien-dsa.github.io/Vivien_Portfolio/post/"
                 />
   </url><url>
-    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-8/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://vivien-dsa.github.io/Vivien_Portfolio/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -152,5 +148,17 @@
                 hreflang="en"
                 href="https://vivien-dsa.github.io/Vivien_Portfolio/contact/"
                 />
+  </url><url>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/tags/covid/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/tags/face-mask/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-8/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
