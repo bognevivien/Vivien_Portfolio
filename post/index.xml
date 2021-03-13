@@ -19,16 +19,6 @@ Why lead scoring is so important ? It helps sales and marketing departments iden
     </item>
     
     <item>
-      <title>Project IV: Create a recommender system for Movies and Benchmark it</title>
-      <link>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-4/</link>
-      <pubDate>Fri, 12 Feb 2021 11:14:48 -0400</pubDate>
-      
-      <guid>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-4/</guid>
-      <description>Read the MovieLens dataset. Create 2 model pipelines : 1st pipeline : Load data, Train test split, model training, prediction, evaluation. 2nd pipeline : Load data, cross validation. Benchmark the User based and item based collaborative filtering models using the cosine and pearson correlation similarity metrics.
-The complete notebook : https://github.com/vivien-DSA/recsys_practice</description>
-    </item>
-    
-    <item>
       <title>Project VII: Face mask detector</title>
       <link>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-8/</link>
       <pubDate>Wed, 10 Feb 2021 11:00:59 -0400</pubDate>
@@ -48,6 +38,16 @@ We will do this project using the steps below:
       <guid>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-5/</guid>
       <description>Creating a translation system from a parallel corpus using OpenNMT which provides optimized tools to perform.
 With OpenNMT we perform sub Tokenization, training, Translatation, Detokenization and then evaluation of our MT</description>
+    </item>
+    
+    <item>
+      <title>Project IV: Create a recommender system for Movies and Benchmark it</title>
+      <link>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-4/</link>
+      <pubDate>Tue, 12 Jan 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-4/</guid>
+      <description>Read the MovieLens dataset. Create 2 model pipelines : 1st pipeline : Load data, Train test split, model training, prediction, evaluation. 2nd pipeline : Load data, cross validation. Benchmark the User based and item based collaborative filtering models using the cosine and pearson correlation similarity metrics.
+The complete notebook : https://github.com/vivien-DSA/recsys_practice</description>
     </item>
     
     <item>

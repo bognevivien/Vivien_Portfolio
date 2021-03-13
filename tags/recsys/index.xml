@@ -6,11 +6,11 @@
     <description>Recent content in recsys on Vivien BOGNE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Feb 2021 11:14:48 -0400</lastBuildDate><atom:link href="https://vivien-dsa.github.io/Vivien_Portfolio/tags/recsys/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Jan 2021 11:14:48 -0400</lastBuildDate><atom:link href="https://vivien-dsa.github.io/Vivien_Portfolio/tags/recsys/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project IV: Create a recommender system for Movies and Benchmark it</title>
       <link>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-4/</link>
-      <pubDate>Fri, 12 Feb 2021 11:14:48 -0400</pubDate>
+      <pubDate>Tue, 12 Jan 2021 11:14:48 -0400</pubDate>
       
       <guid>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-4/</guid>
       <description>Read the MovieLens dataset. Create 2 model pipelines : 1st pipeline : Load data, Train test split, model training, prediction, evaluation. 2nd pipeline : Load data, cross validation. Benchmark the User based and item based collaborative filtering models using the cosine and pearson correlation similarity metrics.
