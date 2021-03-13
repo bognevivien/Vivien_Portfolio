@@ -40,7 +40,7 @@
 <meta itemprop="name" content="Project VII: Face mask detector">
 <meta itemprop="description" content="Using open Cv , keras and tensorflow in order to train a face mask classifier."><meta itemprop="datePublished" content="2020-12-10T11:00:59-04:00" />
 <meta itemprop="dateModified" content="2020-12-10T11:00:59-04:00" />
-<meta itemprop="wordCount" content="145">
+<meta itemprop="wordCount" content="337">
 <meta itemprop="keywords" content="Face mask,Covid," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Project VII: Face mask detector"/>
 <meta name="twitter:description" content="Using open Cv , keras and tensorflow in order to train a face mask classifier."/>
@@ -199,17 +199,40 @@
 <p>We will do this project using the steps below:</p>
 <ul>
 <li>Data collection and exploration: Collect or download some images ( with mask and without mask)</li>
-<li>Data preparation: Prepare those images for a ML or DL algorithm. (Classifier)</li>
-<li>Machine or Deep Learning: train a Classifier and save the models</li>
+<li>Data annotation and preparation: Prepare those images for a ML or DL algorithm. (Classifier)</li>
+<li>Machine or Deep Learning: train a Classifier and save the models or Use a Pretrained model update confing for Transfer Learning.</li>
 <li>Inference of the model : use the model to infer real time pictures or videos.</li>
 </ul>
-<h1 id="the-dataset">The dataset:</h1>
+<h1 id="the-dataset-data-collection-and-data-exploration">The dataset: Data collection and Data exploration</h1>
 <p>The are many ways to get data.</p>
 <ul>
-<li>We can create a data using our camera, a video.</li>
+<li>We can create a data using our camera, a video ( with Open CV ).</li>
 <li>We can download data already create by peers</li>
 </ul>
-<p>Let us use the last methodology and use the dataset create by</p>
+<p>Since we want to learn here how to use OpenCv we will use openCv to create our dataset.</p>
+<figure>
+    <img src="https://vivien-dsa.github.io/Vivien_Portfolio/images/faceDetection/data_collection_and_labelling.png"/> 
+</figure>
+
+<h1 id="the-labelling-data-annotation-and-preparation">The labelling: Data annotation and preparation</h1>
+<h2 id="data-annotation">Data annotation:</h2>
+<p>If we were using a data set already create it could be already labelled. In the other hand, we labelled our data during the creation process with openCv. Indeed, we create separate dataset: one folder with mask and a another without a mask.</p>
+<p>For our knowledge, later, we will use data annotation in order to label our image .
+That means that we will still collect data using openCV but :</p>
+<ul>
+<li>we will merge our data with and without mask and</li>
+<li>we will use tensorflow object detection API. (generateTF records)
+To install labelImg and label images from scratch for object detection. we will use the repo :
+<a href="https://github.com/tzutalin/labelImg">https://github.com/tzutalin/labelImg</a>
+Also, in order to use this labelImg we need to install some dependencies and set up the binary:
+<ul>
+<li>conda install pyqt=5</li>
+<li>conda install -c anaconda lxml</li>
+<li>pyrcc5 -o resources.py resources.qrc; then copy the labelImg folder and cut and paste resources.py and resources.qrc into the lib folder</li>
+</ul>
+</li>
+</ul>
+<h2 id="data-preparation">Data preparation</h2>
 <ul class="pa0">
   
    <li class="list">
