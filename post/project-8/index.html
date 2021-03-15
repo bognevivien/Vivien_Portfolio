@@ -40,7 +40,7 @@
 <meta itemprop="name" content="Project VII: Face mask detector">
 <meta itemprop="description" content="Classification: Using open Cv , keras and tensorflow in order to train a face mask classifier."><meta itemprop="datePublished" content="2021-02-10T11:00:59-04:00" />
 <meta itemprop="dateModified" content="2021-02-10T11:00:59-04:00" />
-<meta itemprop="wordCount" content="309">
+<meta itemprop="wordCount" content="316">
 <meta itemprop="keywords" content="Face mask,Covid," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Project VII: Face mask detector"/>
 <meta name="twitter:description" content="Classification: Using open Cv , keras and tensorflow in order to train a face mask classifier."/>
@@ -220,18 +220,23 @@ This is a project made for our knowledge. Indeed the objective is to:</p>
 </figure>
 
 <p>The results of the above script is 2 folders : with and without mask. Theses folders contains our dataset.</p>
-<p>Now that we now how to collect data using openCV, let us download a much more clean and variate dataset
-with mask: <a href="https://github.com/NVlabs/ffhq-dataset">https://github.com/NVlabs/ffhq-dataset</a>
-without mask: <a href="https://github.com/cabani/MaskedFace-Net">https://github.com/cabani/MaskedFace-Net</a></p>
+<p>Now that we now how to collect data using openCV, let us download a much more clean and variate dataset</p>
+<ul>
+<li>with mask: <a href="https://github.com/NVlabs/ffhq-dataset">https://github.com/NVlabs/ffhq-dataset</a></li>
+<li>without mask: <a href="https://github.com/cabani/MaskedFace-Net">https://github.com/cabani/MaskedFace-Net</a></li>
+</ul>
 <p>The result is also 2 folders, one as the one we collected with openCv.</p>
 <h2 id="data-preparation-">Data preparation :</h2>
-<p>Before using our dataset we need to prepare them for a ML/ DL algorithm.</p>
+<p>Before using our dataset we need to prepare it for a ML/ DL algorithm.</p>
 <h3 id="features-engineering">Features Engineering</h3>
 <p>All the variables need to be numerical for a DL algorithm. For the moment we only have images.</p>
 <h4 id="the-features">The Features</h4>
 <p>Images collected are our features. We will use openCV to convert them into array.</p>
 <h4 id="the-label">The label.</h4>
 <p>We are working on a Binary classifier: We want to know if a person is wearing a mask or not.</p>
+<h1 id="results">Results:</h1>
+<p>The complete notebook is here:
+<a href="https://github.com/vivien-DSA/Face_mask_detection">https://github.com/vivien-DSA/Face_mask_detection</a></p>
 <h1 id="references-">References :</h1>
 <ol>
 <li><a href="https://github.com/nicknochnack/FaceMaskObjectDetection">https://github.com/nicknochnack/FaceMaskObjectDetection</a>
