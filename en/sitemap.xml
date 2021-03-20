@@ -2,51 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/tags/data-science/</loc>
-    <lastmod>2021-03-01T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/</loc>
-    <lastmod>2021-03-01T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://vivien-dsa.github.io/Vivien_Portfolio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vivien-dsa.github.io/Vivien_Portfolio/en/"
-                />
-  </url><url>
-    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/tags/lead-scoring/</loc>
-    <lastmod>2021-03-01T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-7/</loc>
-    <lastmod>2021-03-01T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/tags/</loc>
-    <lastmod>2021-03-01T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://vivien-dsa.github.io/Vivien_Portfolio/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vivien-dsa.github.io/Vivien_Portfolio/en/tags/"
-                />
-  </url><url>
     <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/tags/covid/</loc>
     <lastmod>2021-02-10T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -77,43 +32,48 @@
                 href="https://vivien-dsa.github.io/Vivien_Portfolio/en/tags/face-mask/"
                 />
   </url><url>
-    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-8/</loc>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/</loc>
+    <lastmod>2021-02-10T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://vivien-dsa.github.io/Vivien_Portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vivien-dsa.github.io/Vivien_Portfolio/en/"
+                />
+  </url><url>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-5/</loc>
     <lastmod>2021-02-10T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-5/</loc>
-    <lastmod>2021-01-13T11:15:58-04:00</lastmod>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/tags/</loc>
+    <lastmod>2021-02-10T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://vivien-dsa.github.io/Vivien_Portfolio/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vivien-dsa.github.io/Vivien_Portfolio/en/tags/"
+                />
   </url><url>
     <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-4/</loc>
-    <lastmod>2021-01-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/tags/recsys/</loc>
-    <lastmod>2021-01-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-3/</loc>
-    <lastmod>2020-12-11T11:13:32-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-2/</loc>
-    <lastmod>2020-12-10T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-1/</loc>
-    <lastmod>2020-12-09T10:58:08-04:00</lastmod>
+    <lastmod>2021-02-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/tags/scene/</loc>
-    <lastmod>2020-12-09T10:58:08-04:00</lastmod>
+    <lastmod>2021-02-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -127,12 +87,22 @@
                 href="https://vivien-dsa.github.io/Vivien_Portfolio/en/tags/scene/"
                 />
   </url><url>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-1/</loc>
+    <lastmod>2021-01-13T11:15:58-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-3/</loc>
+    <lastmod>2021-01-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/tags/data-viz/</loc>
     <lastmod>2020-04-14T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-6/</loc>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-2/</loc>
     <lastmod>2020-04-14T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
