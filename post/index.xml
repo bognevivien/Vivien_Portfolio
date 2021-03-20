@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://vivien-dsa.github.io/Vivien_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Project VII: Face mask detector</title>
+      <link>https://vivien-dsa.github.io/Vivien_Portfolio/post/projet-8/</link>
+      <pubDate>Wed, 10 Feb 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://vivien-dsa.github.io/Vivien_Portfolio/post/projet-8/</guid>
+      <description>Problématique: Nous mettons sur pieds dans ce projet un détecteur de masque. Les différentes étapes sont les suivantes:
+ Utiliser OpenCV pour charger les images et les labeliser Utiliser un algorithme de DL pour creer un classificateur d&amp;rsquo;Images Utiliser openCV et le classificateur pour détecter le port du masque.  Nous allons utiliser comme démarche data science: CRISP-DM
+ Comprehension des données: Nous allons collecter ou télécharger les images nécessaires à l&amp;rsquo;entrainement du modèles.</description>
+    </item>
+    
+    <item>
       <title>Projet IV: AWS cloud computing </title>
       <link>https://vivien-dsa.github.io/Vivien_Portfolio/post/projet-4/</link>
       <pubDate>Tue, 09 Feb 2021 10:58:08 -0400</pubDate>
