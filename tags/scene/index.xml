@@ -40,10 +40,8 @@
       <pubDate>Wed, 09 Dec 2020 10:58:08 -0400</pubDate>
       
       <guid>https://vivien-dsa.github.io/Vivien_Portfolio/post/projet-2/</guid>
-      <description>Analyse du besoin : Nous utilisons les statistiques de criminalité du site europea.eu pour analyser les pays les plus dangereux de l&amp;rsquo;Union européenne.
-  Hypothèse : La france n&amp;rsquo;est pas le pays le plus dangereux de l&amp;rsquo;UE.
-  Dataviz : Construction d&amp;rsquo;un tableau de bord avec plusieurs visuels ( chloropleth maps, Tree map, diagramme en bar et en secteur )
-  Validation de l&amp;rsquo;hypothèse et Conclusion: La France se positionne en troisième place dans le classement des pays les plus dangereux de l&amp;rsquo;union européenne.</description>
+      <description>Nous utilisons les statistiques de criminalité du site europea.eu pour analyser les pays les plus dangereux de l&amp;rsquo;Union européenne. Nous avons utilisé 4 ensembles de données, le nombre de vol qualifié, homicides intentionnels, vol de voitures et d&amp;rsquo;agressions. Nous avons crée des visuels ( Chloropleth maps, histogrammes et diagrammes) pour invalider l&amp;rsquo;hypothèse.
+  Analyse du besoin : Nous utilisons les statistiques de criminalité du site europea.eu pour analyser les pays les plus dangereux de l&amp;rsquo;Union européenne.</description>
     </item>
     
   </channel>
