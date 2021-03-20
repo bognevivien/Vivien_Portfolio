@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science on Vivien BOGNE</title>
+    <link>https://vivien-dsa.github.io/Vivien_Portfolio/en/tags/data-science/</link>
+    <description>Recent content in Data Science on Vivien BOGNE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Mar 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://vivien-dsa.github.io/Vivien_Portfolio/en/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project VII: Predictive Lead Scoring</title>
+      <link>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-7/</link>
+      <pubDate>Mon, 01 Mar 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-7/</guid>
+      <description>State of art What is lead scoring ? In a nutshell, lead scoring is a methodology for ranking leads in order to determine their sales-readiness, their scoring etc.
+Why lead scoring is so important ? It helps sales and marketing departments identify which prospects are potentially most valuable to the company and its current sales funnel. It helps:
+ improving the lead-handoff process, increasing lead conversion rate, improving rep productivity, and more.</description>
+    </item>
+    
+  </channel>
+</rss>

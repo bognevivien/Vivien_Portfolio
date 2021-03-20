@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Vivien BOGNE</title>
+    <link>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/</link>
+    <description>Recent content in Projects on Vivien BOGNE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Mar 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://vivien-dsa.github.io/Vivien_Portfolio/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project VII: Predictive Lead Scoring</title>
+      <link>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-7/</link>
+      <pubDate>Mon, 01 Mar 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-7/</guid>
+      <description>State of art What is lead scoring ? In a nutshell, lead scoring is a methodology for ranking leads in order to determine their sales-readiness, their scoring etc.
+Why lead scoring is so important ? It helps sales and marketing departments identify which prospects are potentially most valuable to the company and its current sales funnel. It helps:
+ improving the lead-handoff process, increasing lead conversion rate, improving rep productivity, and more.</description>
+    </item>
+    
+    <item>
+      <title>Project VII: Face mask detector</title>
+      <link>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-8/</link>
+      <pubDate>Wed, 10 Feb 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-8/</guid>
+      <description>Problem statement: We are building here a face mask detector app. This is a project made for our knowledge. Indeed the objective is to:
+ learn how to use open CV in order to load images, Use a DL algorithm in other to classifier images Use OpenCV to infer the classifier and display the results.  We will do this project using the steps below:
+ Data collection and preparation: Collect or download some images and Prepare those images for a ML or DL algorithm.</description>
+    </item>
+    
+    <item>
+      <title>Project V: Create a model for Neural Machine Translation</title>
+      <link>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-5/</link>
+      <pubDate>Wed, 13 Jan 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-5/</guid>
+      <description>Creating a translation system from a parallel corpus using OpenNMT which provides optimized tools to perform.
+With OpenNMT we perform sub Tokenization, training, Translatation, Detokenization and then evaluation of our MT</description>
+    </item>
+    
+    <item>
+      <title>Project IV: Create a recommender system for Movies and Benchmark it</title>
+      <link>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-4/</link>
+      <pubDate>Tue, 12 Jan 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-4/</guid>
+      <description>Read the MovieLens dataset. Create 2 model pipelines : 1st pipeline : Load data, Train test split, model training, prediction, evaluation. 2nd pipeline : Load data, cross validation. Benchmark the User based and item based collaborative filtering models using the cosine and pearson correlation similarity metrics.
+The complete notebook : https://github.com/vivien-DSA/recsys_practice</description>
+    </item>
+    
+    <item>
+      <title>Project III: Sentiment Analysis using RNN ( GRU ) and CNN</title>
+      <link>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-3/</link>
+      <pubDate>Fri, 11 Dec 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-3/</guid>
+      <description>In this Demo, we are building a sentiment analysis system for Twitter. The task consists in predicting whether a tweet is positive, negative or neutral regarding its content. We use a GRU and CNN.</description>
+    </item>
+    
+    <item>
+      <title>Project II: AWS cloud computing</title>
+      <link>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-2/</link>
+      <pubDate>Thu, 10 Dec 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-2/</guid>
+      <description>Load data on HDFS and S3 then Creating Cluster on EMR, a notebook on Sagemaker Deploy SPARK application on the Cluster</description>
+    </item>
+    
+    <item>
+      <title>Project I: Flu Shot Learning </title>
+      <link>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-1/</link>
+      <pubDate>Wed, 09 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-1/</guid>
+      <description>In this challenge, we take a look at vaccination, a key public health measure used to fight infectious diseases. We analyse the different data in order to, firstly, have a better understanding of how these characteristics are associated with personal vaccination patterns, secondly, predict the personal vaccination patterns, and finally, provide guidance for future public health efforts.</description>
+    </item>
+    
+    <item>
+      <title>Project VI: Most Dangerous Country in EU</title>
+      <link>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-6/</link>
+      <pubDate>Tue, 14 Apr 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-6/</guid>
+      <description>We are delighted to be able to inform the reader. is France the most dangerous Country in EU? We use crimes statistics from europea.eu website to explain or show the most dangerouns countries in European Union. We used 4 datasets, the Assaults, the number of intentional Homicide, the number of car thefts and one last with the number of the number of robbery. Using chloropleth maps, Tree map, bar chart in PLOTLY, we invalidated the null hypothesis.</description>
+    </item>
+    
+  </channel>
+</rss>

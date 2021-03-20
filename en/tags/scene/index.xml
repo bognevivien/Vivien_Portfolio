@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Vivien BOGNE</title>
+    <link>https://vivien-dsa.github.io/Vivien_Portfolio/en/tags/scene/</link>
+    <description>Recent content in scene on Vivien BOGNE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Dec 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://vivien-dsa.github.io/Vivien_Portfolio/en/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I: Flu Shot Learning </title>
+      <link>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-1/</link>
+      <pubDate>Wed, 09 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-1/</guid>
+      <description>In this challenge, we take a look at vaccination, a key public health measure used to fight infectious diseases. We analyse the different data in order to, firstly, have a better understanding of how these characteristics are associated with personal vaccination patterns, secondly, predict the personal vaccination patterns, and finally, provide guidance for future public health efforts.</description>
+    </item>
+    
+  </channel>
+</rss>
