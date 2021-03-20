@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Dec 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://vivien-dsa.github.io/Vivien_Portfolio/fr/tags/scene/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Projet I: Analyse semantique des sentiments : RNN ( GRU ) and CNN </title>
+      <title>Projet I: Neural Machine Translation using openNMT</title>
       <link>https://vivien-dsa.github.io/Vivien_Portfolio/fr/post/projet-1/</link>
       <pubDate>Wed, 09 Dec 2020 10:58:08 -0400</pubDate>
       
       <guid>https://vivien-dsa.github.io/Vivien_Portfolio/fr/post/projet-1/</guid>
-      <description>Dans cette démo, nous construisons un système d&amp;rsquo;analyse des sentiments pour Twitter. La tâche consiste à prédire si un tweet est positif, négatif ou neutre par rapport à son contenu. Nous utilisons comme réseaux de neurones GRU et CNN.</description>
+      <description> Nous utilisons un corpus parallèles et OpenNMT pour entrainer un modèle de traduction automatiques. Nous effectuons les operations ( sub Tokenization, training, Translatation, Detokenization et puis evaluation ). il en ressort un traducteur avec une métrique BLEU Score % de 30, Nous avons utiliser un encodage BPE de taille 32k et comme réseaux de neurones un transformer.  </description>
     </item>
     
     <item>
