@@ -24,7 +24,7 @@
       <pubDate>Tue, 09 Feb 2021 10:58:08 -0400</pubDate>
       
       <guid>https://vivien-dsa.github.io/Vivien_Portfolio/post/projet-4/</guid>
-      <description> Après avoir créer l&amp;rsquo;application de comptage de mot nous avons créer un corpus de 20 GB de mot en utilisant nltk. Ensuite nous avons crée un cluster EMR, chargé les données sur S3 et finalement définit une application SPARK dans notre cluster.  </description>
+      <description>Après avoir créer l&amp;rsquo;application de comptage de mot nous avons créer un corpus de 20 GB de mot en utilisant nltk. Ensuite nous avons crée un cluster EMR, chargé les données sur S3 et finalement définit une application SPARK dans notre cluster.  Le rapport complet se trouve ici : https://github.com/vivien-DSA/Cloud-computing-using-Pyspark-and-AWS</description>
     </item>
     
     <item>
