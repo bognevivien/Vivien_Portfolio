@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>applicants on Vivien BOGNE</title>
+    <link>https://vivien-dsa.github.io/Vivien_Portfolio/tags/applicants/</link>
+    <description>Recent content in applicants on Vivien BOGNE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Mar 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://vivien-dsa.github.io/Vivien_Portfolio/tags/applicants/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project VII: HR Analytics: Job Change of Data Scientists</title>
+      <link>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-6/</link>
+      <pubDate>Wed, 10 Mar 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-6/</guid>
+      <description>Problem statement: Data exploration : Data preparation : Features Engineering The Features The label. Results: The complete notebook is here:
+References : 1. 2.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,156 +2,171 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/tags/covid/</loc>
-    <lastmod>2021-02-10T11:00:59-04:00</lastmod>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/tags/applicants/</loc>
+    <lastmod>2021-03-10T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/</loc>
+    <lastmod>2021-03-10T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://vivien-dsa.github.io/Vivien_Portfolio/tags/covid/"
+                href="https://vivien-dsa.github.io/Vivien_Portfolio/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vivien-dsa.github.io/Vivien_Portfolio/en/tags/covid/"
-                />
-  </url><url>
-    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/tags/face-mask/</loc>
-    <lastmod>2021-02-10T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://vivien-dsa.github.io/Vivien_Portfolio/tags/face-mask/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vivien-dsa.github.io/Vivien_Portfolio/en/tags/face-mask/"
-                />
-  </url><url>
-    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/</loc>
-    <lastmod>2021-02-10T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
                 href="https://vivien-dsa.github.io/Vivien_Portfolio/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vivien-dsa.github.io/Vivien_Portfolio/en/"
-                />
   </url><url>
-    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-5/</loc>
-    <lastmod>2021-02-10T11:00:59-04:00</lastmod>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/tags/job/</loc>
+    <lastmod>2021-03-10T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/tags/</loc>
-    <lastmod>2021-02-10T11:00:59-04:00</lastmod>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-6/</loc>
+    <lastmod>2021-03-10T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/tags/</loc>
+    <lastmod>2021-03-10T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
+                href="https://vivien-dsa.github.io/Vivien_Portfolio/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="https://vivien-dsa.github.io/Vivien_Portfolio/tags/"
                 />
+  </url><url>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/tags/covid/</loc>
+    <lastmod>2021-02-10T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://vivien-dsa.github.io/Vivien_Portfolio/fr/tags/covid/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vivien-dsa.github.io/Vivien_Portfolio/en/tags/"
+                href="https://vivien-dsa.github.io/Vivien_Portfolio/tags/covid/"
                 />
   </url><url>
-    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-4/</loc>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/tags/face-mask/</loc>
+    <lastmod>2021-02-10T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://vivien-dsa.github.io/Vivien_Portfolio/fr/tags/face-mask/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vivien-dsa.github.io/Vivien_Portfolio/tags/face-mask/"
+                />
+  </url><url>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-5/</loc>
+    <lastmod>2021-02-10T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-4/</loc>
     <lastmod>2021-02-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/tags/scene/</loc>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/tags/scene/</loc>
     <lastmod>2021-02-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://vivien-dsa.github.io/Vivien_Portfolio/tags/scene/"
+                href="https://vivien-dsa.github.io/Vivien_Portfolio/fr/tags/scene/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vivien-dsa.github.io/Vivien_Portfolio/en/tags/scene/"
+                href="https://vivien-dsa.github.io/Vivien_Portfolio/tags/scene/"
                 />
   </url><url>
-    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-1/</loc>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-1/</loc>
     <lastmod>2021-01-13T11:15:58-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-3/</loc>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-3/</loc>
     <lastmod>2021-01-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/tags/data-viz/</loc>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/tags/data-viz/</loc>
     <lastmod>2020-04-14T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/project-2/</loc>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-2/</loc>
     <lastmod>2020-04-14T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/post/</loc>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/post/</loc>
     <lastmod>2020-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
+                href="https://vivien-dsa.github.io/Vivien_Portfolio/fr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="https://vivien-dsa.github.io/Vivien_Portfolio/post/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vivien-dsa.github.io/Vivien_Portfolio/en/post/"
-                />
   </url><url>
-    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/about/</loc>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/categories/</loc>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
+                href="https://vivien-dsa.github.io/Vivien_Portfolio/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="https://vivien-dsa.github.io/Vivien_Portfolio/categories/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vivien-dsa.github.io/Vivien_Portfolio/en/categories/"
-                />
   </url><url>
-    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/en/contact/</loc>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://vivien-dsa.github.io/Vivien_Portfolio/contact/"
+                href="https://vivien-dsa.github.io/Vivien_Portfolio/fr/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vivien-dsa.github.io/Vivien_Portfolio/en/contact/"
+                href="https://vivien-dsa.github.io/Vivien_Portfolio/contact/"
                 />
   </url>
 </urlset>
