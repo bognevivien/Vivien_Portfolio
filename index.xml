@@ -8,12 +8,13 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Mar 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://vivien-dsa.github.io/Vivien_Portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project VII: HR Analytics: Job Change of Data Scientists</title>
+      <title>Project VIII: HR Analytics: Job Change of Data Scientists</title>
       <link>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-6/</link>
       <pubDate>Wed, 10 Mar 2021 11:00:59 -0400</pubDate>
       
       <guid>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-6/</guid>
-      <description>Problem statement: Data exploration : Data preparation : Features Engineering The Features The label. Results: The complete notebook is here:
+      <description>Problem statement: We are using the datasets named: &amp;ldquo;HR analytics: Data Science Job Change&amp;rdquo;. The Objective of the project is to :
+Methodology. Data exploration : Data preparation : Features Engineering The Features The label. Results: The complete notebook is here:
 References : 1. 2.</description>
     </item>
     
