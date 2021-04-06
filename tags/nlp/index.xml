@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLP on Vivien BOGNE</title>
+    <link>https://vivien-dsa.github.io/Vivien_Portfolio/tags/nlp/</link>
+    <description>Recent content in NLP on Vivien BOGNE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Jan 2021 11:15:58 -0400</lastBuildDate><atom:link href="https://vivien-dsa.github.io/Vivien_Portfolio/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> Create a model for Neural Machine Translation</title>
+      <link>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-1/</link>
+      <pubDate>Wed, 13 Jan 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-1/</guid>
+      <description>Creating a translation system from a parallel corpus using OpenNMT which provides optimized tools to perform.
+With OpenNMT we perform sub Tokenization, training, Translatation, Detokenization and then evaluation of our MT</description>
+    </item>
+    
+  </channel>
+</rss>
