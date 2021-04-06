@@ -16,14 +16,5 @@
       <description> Après avoir créer l&amp;rsquo;application de comptage de mot nous avons créer un corpus de 20 GB de mot en utilisant nltk. Ensuite nous avons crée un cluster EMR, chargé les données sur S3 et finalement définit une application SPARK dans notre cluster.  </description>
     </item>
     
-    <item>
-      <title> Recommender system</title>
-      <link>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-3/</link>
-      <pubDate>Sat, 09 Jan 2021 10:58:08 -0400</pubDate>
-      
-      <guid>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-3/</guid>
-      <description>Il s&amp;rsquo;agit d&amp;rsquo;utiliser le jeux de données MovieLens dataset afin de créer un système de recommendation. Nous créons un pipeline qui comprends : : Le chargement des données, la préparation des données, l&amp;rsquo;entrainement de modeles, une validation croisée et l&amp;rsquo;évaluation du modèles. Après avoir utilisé les modèles SVM, KNN: basé sur les utilisateurs et basé sur les éléments, nous effection un benchmarking. Il en ressort que le meilleur modèle est KNN: item based using the cosine bien que celui çi possède un temps d&amp;rsquo;entrainement beaucoup plus grand.</description>
-    </item>
-    
   </channel>
 </rss>

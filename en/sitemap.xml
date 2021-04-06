@@ -52,21 +52,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/tags/covid/</loc>
-    <lastmod>2021-02-10T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://vivien-dsa.github.io/Vivien_Portfolio/fr/tags/covid/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vivien-dsa.github.io/Vivien_Portfolio/tags/covid/"
-                />
-  </url><url>
     <loc>https://vivien-dsa.github.io/Vivien_Portfolio/tags/face-mask/</loc>
     <lastmod>2021-02-10T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -81,6 +66,21 @@
                 hreflang="en"
                 href="https://vivien-dsa.github.io/Vivien_Portfolio/tags/face-mask/"
                 />
+  </url><url>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/tags/keras/</loc>
+    <lastmod>2021-02-10T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/tags/opencv/</loc>
+    <lastmod>2021-02-10T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/tags/tensorflow/</loc>
+    <lastmod>2021-02-10T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-4/</loc>
     <lastmod>2021-02-09T10:58:08-04:00</lastmod>
@@ -107,12 +107,27 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/tags/nlp/</loc>
+    <lastmod>2021-01-13T11:15:58-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-3/</loc>
     <lastmod>2021-01-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/tags/data-viz/</loc>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/tags/ml/</loc>
+    <lastmod>2021-01-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/tags/surprise/</loc>
+    <lastmod>2021-01-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vivien-dsa.github.io/Vivien_Portfolio/tags/dataviz/</loc>
     <lastmod>2020-04-14T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
