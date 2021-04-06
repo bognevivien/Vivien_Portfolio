@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Mar 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://vivien-dsa.github.io/Vivien_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project VIII: HR Analytics: Job Change of Data Scientists</title>
+      <title> HR Analytics Job Change </title>
       <link>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-6/</link>
       <pubDate>Wed, 10 Mar 2021 11:00:59 -0400</pubDate>
       
@@ -19,7 +19,7 @@ References : 1. 2.</description>
     </item>
     
     <item>
-      <title>Project VII: Face mask detector</title>
+      <title> Face mask detector</title>
       <link>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-5/</link>
       <pubDate>Wed, 10 Feb 2021 11:00:59 -0400</pubDate>
       
@@ -30,7 +30,7 @@ References : 1. 2.</description>
     </item>
     
     <item>
-      <title>Projet IV: AWS cloud computing </title>
+      <title> AWS cloud computing </title>
       <link>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-4/</link>
       <pubDate>Tue, 09 Feb 2021 10:58:08 -0400</pubDate>
       
@@ -39,7 +39,7 @@ References : 1. 2.</description>
     </item>
     
     <item>
-      <title>Project V: Create a model for Neural Machine Translation</title>
+      <title> Create a model for Neural Machine Translation</title>
       <link>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-1/</link>
       <pubDate>Wed, 13 Jan 2021 11:15:58 -0400</pubDate>
       
@@ -49,7 +49,7 @@ With OpenNMT we perform sub Tokenization, training, Translatation, Detokenizatio
     </item>
     
     <item>
-      <title>Projet III: Recommender system</title>
+      <title> Recommender system</title>
       <link>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-3/</link>
       <pubDate>Sat, 09 Jan 2021 10:58:08 -0400</pubDate>
       
@@ -58,7 +58,7 @@ With OpenNMT we perform sub Tokenization, training, Translatation, Detokenizatio
     </item>
     
     <item>
-      <title>Project VI: Most Dangerous Country in EU</title>
+      <title>Most Dangerous Country in EU</title>
       <link>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-2/</link>
       <pubDate>Tue, 14 Apr 2020 11:25:05 -0400</pubDate>
       
