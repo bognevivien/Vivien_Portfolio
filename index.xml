@@ -13,9 +13,7 @@
       <pubDate>Wed, 10 Mar 2021 11:00:59 -0400</pubDate>
       
       <guid>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-6/</guid>
-      <description>Problem statement: We are using the datasets named: &amp;ldquo;HR analytics: Data Science Job Change&amp;rdquo;. The Objective of the project is to :
-Methodology. Data exploration : Data preparation : Features Engineering The Features The label. Results: The complete notebook is here:
-References : 1. 2.</description>
+      <description>Exit Report of Project HR analytics Job Changes for a company.  Instructions: Template for exit criteria for data science projects. This is concise document that includes an overview of the entire project, including details of each stage and learning. If a section isn&amp;rsquo;t applicable (e.g. project didn&amp;rsquo;t include a ML model), simply mark that section as &amp;ldquo;Not applicable&amp;rdquo;. Suggested length between 5-20 pages. Code should mostly be within code repository (not in this document).</description>
     </item>
     
     <item>
