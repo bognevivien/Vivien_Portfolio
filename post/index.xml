@@ -55,14 +55,5 @@ With OpenNMT we perform sub Tokenization, training, Translatation, Detokenizatio
       <description>We are delighted to be able to inform the reader. is France the most dangerous Country in EU? We use crimes statistics from europea.eu website to explain or show the most dangerouns countries in European Union. We used 4 datasets, the Assaults, the number of intentional Homicide, the number of car thefts and one last with the number of the number of robbery. Using chloropleth maps, Tree map, bar chart in PLOTLY, we invalidated the null hypothesis.</description>
     </item>
     
-    <item>
-      <title></title>
-      <link>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-6/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
