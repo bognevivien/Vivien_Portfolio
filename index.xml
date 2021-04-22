@@ -6,16 +6,7 @@
     <description>Recent content in Hello Welcome to my Portfolio on Vivien BOGNE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Mar 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://vivien-dsa.github.io/Vivien_Portfolio/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title> HR Analytics Job Change </title>
-      <link>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-6/</link>
-      <pubDate>Wed, 10 Mar 2021 11:00:59 -0400</pubDate>
-      
-      <guid>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-6/</guid>
-      <description>Exit Report of Project HR analytics Job Changes for a company.  Instructions: Template for exit criteria for data science projects. This is concise document that includes an overview of the entire project, including details of each stage and learning. If a section isn&amp;rsquo;t applicable (e.g. project didn&amp;rsquo;t include a ML model), simply mark that section as &amp;ldquo;Not applicable&amp;rdquo;. Suggested length between 5-20 pages. Code should mostly be within code repository (not in this document).</description>
-    </item>
-    
+    <lastBuildDate>Wed, 10 Feb 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://vivien-dsa.github.io/Vivien_Portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title> Face mask detector</title>
       <link>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-5/</link>
@@ -62,6 +53,15 @@ With OpenNMT we perform sub Tokenization, training, Translatation, Detokenizatio
       
       <guid>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-2/</guid>
       <description>We are delighted to be able to inform the reader. is France the most dangerous Country in EU? We use crimes statistics from europea.eu website to explain or show the most dangerouns countries in European Union. We used 4 datasets, the Assaults, the number of intentional Homicide, the number of car thefts and one last with the number of the number of robbery. Using chloropleth maps, Tree map, bar chart in PLOTLY, we invalidated the null hypothesis.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vivien-dsa.github.io/Vivien_Portfolio/post/project-6/</guid>
+      <description></description>
     </item>
     
     <item>
